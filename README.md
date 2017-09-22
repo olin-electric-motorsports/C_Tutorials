@@ -20,7 +20,7 @@ To verify that you correctly installed the gcc compiler, run
 $ gcc --version
 ```
 
-The only thing you need then to write C code before compiling is a text editor. You can use whatever text editor you would like. Some common ones are Atom, Sublime, or VIM. The only thing we ask is that you write good code that follows the OEM [C Style Guide](https://github.com/olin-electric-motorsports/Programming_Tutorials/tree/master/GeneralTutorials/Style_Guide).
+The only thing you need then to write C code before compiling is a text editor. You can use whatever text editor you would like. Some common ones are Atom, Sublime, or VIM. The only thing we ask is that you write good code that follows the OEM [C Style Guide](Style_guide.md).
 
 ## Lessons
 - [Lesson 1 - Intro](Intro.md)
