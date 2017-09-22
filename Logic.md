@@ -1,4 +1,5 @@
 # Logic
+### If statement
 One of the most important things to learn about programming in general is logic or logic flow. These chunks of code “point” your program along its path of computation. Logic tests “cases” or certain events that the programmer defines and wants the program to catch, do something, and then continue. 
 ```C
 if  (testExpression)
@@ -7,6 +8,7 @@ if  (testExpression)
 }
 ```
 The first logical is the `if` statement. This statement works exactly as you might expect. If the case returns true, it executes whatever is between the curly braces, and if it’s false, it will skip over the curly braces onto the next statement. 
+### Else statement
 ```C
 If (testExpression)
 {

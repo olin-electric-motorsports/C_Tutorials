@@ -12,6 +12,7 @@ The only thing that you do need to install is a compiler which turns your code i
 $ sudo apt-get update
 $ sudo apt-get install build-essential manpages-dev
 ```
+*note that the `$` specifies a command that is being run on the terminal comand line.*
 
 To verify that you correctly installed the gcc compiler, run
 
@@ -24,8 +25,10 @@ The only thing you need then to write C code before compiling is a text editor. 
 ## Lessons
 - [Lesson 1 - Intro](Intro.md)
 - [Lesson 2 - Hello World](Hello_world.md) 
-- [Lesson 3 - Logic](Logic.md)
-- [Lesson 4 - File Structure](File_structure.md)
-- [Lesson 5 - Data Types (Or there lack of...)](Data_types.md)
-- [Lesson 6 - Stack, Que, Arrays, and Buffers](Stacks_etc.md)
-- [Lesson 7 - Pointers](Pointers.md)
+- [Lesson 3 - Compiling](Compiling.md) 
+- [Lesson 4 - Logic](Logic.md)
+- [Lesson 5 - File Structure](File_structure.md)
+- [Lesson 6 - Data Types (Or there lack of...)](Data_types.md)
+- [Lesson 7 - Stack, Que, Arrays, and Buffers](Stacks_etc.md)
+- [Lesson 8 - Pointers](Pointers.md)
+- [Lesson 8 - Structures](Structures.md)
