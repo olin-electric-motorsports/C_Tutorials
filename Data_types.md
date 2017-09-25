@@ -13,3 +13,5 @@ Floats are variables that can hold decimal numbers. You create a float by declar
 ### Character
 The `char` data type is used for declaring character type variables. Each `char` has a size of 1 byte. Chars can be used both as a character as well as a number since characters are encoded as numbers.
 
+
+You'll learn about some of the other data types in the next tutorial...
