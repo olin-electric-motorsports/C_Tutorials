@@ -1,4 +1,4 @@
-# C_Tutorials
+# C Tutorials
 Come here to learn more about the C language!
 
 ## Setting up your environment
