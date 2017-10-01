@@ -40,7 +40,7 @@ The `for` loop is one of the most complex, but also powerful flow controllers be
 ```C
 for (int i = 1; i <= 10; i++)
 {
-    fprintf(stderr, i);
+    fprintf(stderr, "%d",i);
 }
 ```
 

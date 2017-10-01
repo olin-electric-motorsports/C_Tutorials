@@ -14,7 +14,7 @@ int main()
 ```
 And here is the `helper.h` file:
 ```
-void print_name(string name)
+void print_name(name)
 {
     fprintf(stderr, “%s\n”, name);  // prints name
 }

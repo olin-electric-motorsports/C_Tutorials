@@ -24,8 +24,8 @@ The only thing you need then to write C code before compiling is a text editor. 
 
 ## Lessons
 - [Lesson 1 - Intro](Intro.md)
-- [Lesson 2 - Hello World](Hello_world.md) 
-- [Lesson 3 - Compiling](Compiling.md) 
+- [Lesson 2 - Compiling](Compiling.md) 
+- [Lesson 3 - Hello World](Hello_world.md) 
 - [Lesson 4 - Logic](Logic.md)
 - [Lesson 5 - File Structure](File_structure.md)
 - [Lesson 6 - Data Types (Or there lack of...)](Data_types.md)
