@@ -30,6 +30,6 @@ The only thing you need then to write C code before compiling is a text editor. 
 - [Lesson 5 - File Structure](File_structure.md)
 - [Lesson 6 - Data Types (Or there lack of...)](Data_types.md)
 - [Lesson 7 - Stack, Que, and Arrays](Stacks_etc.md)
-- [Lesson 8 - Pointers](Pointers.md (coming soon))
+- [Lesson 8 - Pointers](Pointers.md)
 - [Lesson 8 - Structures](Structures.md (coming soon))
 - [Lesson 9 - Bitwise Notation](Bitwise.md (coming soon))
