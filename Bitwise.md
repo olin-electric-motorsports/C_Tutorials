@@ -8,11 +8,11 @@ You should now be familiar with six bitwise operators:
 ```
 bit_arg<<shift_arg
 ```
-Shifts bits to of bit_arg shift_arg places to the left -- equivalent to multiplication by 2^shift_arg
+Shifts bits of bit_arg by shift_arg places to the left -- equivalent to multiplication by 2^shift_arg
 ```
 bit_arg>>shift_arg
 ```
-Shifts bits to of bit_arg shift_arg places to the right -- equivalent to integer division by 2^shift_arg 
+Shifts bits of bit_arg by shift_arg places to the right -- equivalent to integer division by 2^shift_arg 
 ***Works on the bits of both arguments***
 ```
 left_arg & right_arg
