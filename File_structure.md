@@ -9,7 +9,7 @@ Here’s the `main.c` file:
 int main()
 {
     print_name(“Peter”);
-    Return 0;
+    return 0;
 }
 ```
 And here is the `helper.h` file:
