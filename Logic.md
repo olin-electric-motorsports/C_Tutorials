@@ -10,7 +10,7 @@ if  (testExpression)
 The first logical is the `if` statement. This statement works exactly as you might expect. If the case returns true, it executes whatever is between the curly braces, and if it’s false, it will skip over the curly braces onto the next statement. 
 ### Else statement
 ```C
-If (testExpression)
+if (testExpression)
 {
     // do something
 } else {
@@ -23,7 +23,7 @@ Both the `if` and `else` statements can be nested within each other allowing com
 
 ### While loops
 ```C
-While (testExpression)
+while (testExpression)
 {
     // do something;
 }
