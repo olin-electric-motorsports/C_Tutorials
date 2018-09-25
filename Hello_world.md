@@ -47,12 +47,12 @@ Ok now what is that `return 0;` statement mean? It ends the program by telling t
 Now that you understand a bit about the “Hello World!” program, let’s make it a little more complex. We're going to break the printing into a different function and call that in the main in which we’ll learn how to define functions and call functions. 
 
 ```C
-Void print_phrase()
+void print_phrase()
 {
     fprintf(stderr, “Hello World!\n”);
     return;
 }
-Int main()
+int main()
 {
     print_phrase();
 }
