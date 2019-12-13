@@ -1,5 +1,5 @@
 # Intro
-Welcome to the OEM C tutorial! Throughout these tutorials, you'll learn about the language C as well as learn a bit more about how computer and software works.
+Welcome to the OEM C tutorial! Throughout these tutorials, you'll learn about the language C as well as learn a bit more about how computers and software works.
 
 ### A bit about C
 C is a procedural language that was created in 1973 and was originally created to write operating systems. According to *techopedia*, a procedural language is:
